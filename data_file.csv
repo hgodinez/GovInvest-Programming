@@ -1,0 +1,13 @@
+id,gender,status,group,birth_date,hire_date,service_in_city,benefit_formula_benefit_factor,benefit_formula_retirement_age,life_annuity_yearly_amount
+1,f,active,miscellaneous,01/09/1950,07/12/2004,11.18,2.00%,55,0
+2,m,active,miscellaneous,22/01/1978,02/07/2007,8.61,2.50%,55,0
+3,f,active,miscellaneous,24/08/1950,10/10/2000,15.34,2.50%,55,0
+4,m,active,miscellaneous,14/01/1972,10/09/1990,23.86,2.70%,55,0
+5,f,active,miscellaneous,24/04/1980,17/11/1997,14.61,3.00%,60,0
+6,m,active,miscellaneous,12/09/1964,18/03/2013,2.9,3.00%,60,0
+7,f,active,miscellaneous,09/12/1971,06/06/2011,4.68,2.00%,62,0
+8,f,active,miscellaneous,01/04/1981,03/05/2011,4.77,2.00%,62,0
+9,m,active,miscellaneous,20/06/1967,06/07/1999,18.18,2.00%,62,0
+10,f,retired,miscellaneous,03/08/1942,n/a,n/a,n/a,n/a,"37,832.28"
+11,f,retired,miscellaneous,03/02/1943,n/a,n/a,n/a,n/a,"58,421.52"
+12,f,retired,miscellaneous,18/01/1950,n/a,n/a,n/a,n/a,"1,582.56"
